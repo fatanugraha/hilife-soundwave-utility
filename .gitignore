@@ -1,0 +1,6 @@
+.cache/
+*.mp3
+*.wav
+*.core
+*.so
+__pycache__/
